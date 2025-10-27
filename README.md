@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techwikr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages i know python,js,html,css and i am currently learning c
+- 🌱 I’m currently learning programming languages i know python,js,html,css.golang and i am currently learning c
 - 📫 How to reach me: you can reach me on tiktok: techwikr 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love 3d printing, programming and engineering
