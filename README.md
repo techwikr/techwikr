@@ -1,3 +1,4 @@
+<img width="1296" height="730" alt="cowboy_bebop" src="https://github.com/user-attachments/assets/e181cb7b-064c-420f-890a-44b821ea2a55" />
 # Hi 👋, I'm wiktor
 
 ### 
@@ -19,8 +20,8 @@
 - 📫 How to reach me **wikr473@gmail.com**
 
 - ⚡ Fun fact **.**
+<img width="1296" height="730" alt="cowboy_bebop" src="https://github.com/user-attachments/assets/235cde86-7f9e-4a09-bb13-33747c3eb550" />
 
-- !(https://share.google/Ve5BqPIOcs5zn2a0H)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
